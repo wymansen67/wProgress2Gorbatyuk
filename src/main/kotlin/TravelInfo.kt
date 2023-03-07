@@ -1,0 +1,5 @@
+interface TravelInfo {
+        fun GetTravelInfo() {
+
+        }
+}
